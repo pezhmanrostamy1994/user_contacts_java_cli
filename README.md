@@ -1,4 +1,4 @@
-# Contact Manager CLI
+# Model.Contact Manager CLI
 
 Simple command-line Java application for managing a contact list. Provides functionality to add new contacts with their names and phone numbers, and review the list of entered contacts.
 
